@@ -1,0 +1,50 @@
+@charset "ISO-8859-1";
+form{
+	background: blue;
+	color: white;
+	
+	font-size: 50px;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	
+	width:50rem;
+	height: 40rem;
+	margin-left: 25rem;
+	border-style: solid;
+	border-width: medium;
+	border-color: black;
+	border-radius: 20px;
+	
+	
+}
+h2{
+	background-color: black;
+    text-align: center;
+    margin-top: 0px;
+    border-radius: 20px;
+
+}
+
+input{
+	font-size: 40px;
+	width: 40rem;
+	background-color: black;
+	color: white;
+	border-radius: 20px;
+	
+}
+.box{
+	padding-left: 70px;
+}
+button{
+	width:20rem;
+	text-align: center;
+	height: 40px;
+	color: blue;
+	font-size: 20px;
+	border-radius: 20px;
+	border-color: black;
+	
+}
+.box1{
+	padding-left: 10rem;
+}

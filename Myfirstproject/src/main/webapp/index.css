@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+
+body{
+	background-color:blue;
+}
+h1{
+	color: white;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	text-align: center;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+a:hover{
+	color: aqua;
+}
+li{
+	color: white;
+	
+}
+.container{
+	margin-top: 200px;
+	margin-left: 40%;
+	
+}
